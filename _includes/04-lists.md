@@ -6,7 +6,7 @@ List 1:
 
 
 List 2:
-*. :smile:
-*. :blush:
-  *. yes
-  *. no 
+* :smile:
+* :blush:
+  * yes
+  * no 
