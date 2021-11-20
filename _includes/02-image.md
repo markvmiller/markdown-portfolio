@@ -1,1 +1,1 @@
-![Rick Roll](https://cdn.vox-cdn.com/thumbor/9j-s_MPUfWM4bWdZfPqxBxGkvlw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg)
+![mugshot](https://media-exp1.licdn.com/dms/image/C4E03AQH_PjIu9k12WQ/profile-displayphoto-shrink_800_800/0/1550153272925?e=1642636800&v=beta&t=zgoYomFpqjAo7C2uCwRPTf1QRZ03YH0CA-aRg3kO8vc)
