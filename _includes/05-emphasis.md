@@ -1,1 +1,1 @@
-_This is **a mix_ of different font types.**
+_This is __a mix_ of different font types.__
