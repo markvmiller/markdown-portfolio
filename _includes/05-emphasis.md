@@ -1,1 +1,1 @@
-_This is __a mix_ of different font types.__
+_This is **a mix** of different font types._ __this should be bold.__ _This should be italicized._
